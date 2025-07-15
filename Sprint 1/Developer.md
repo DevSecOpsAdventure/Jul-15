@@ -16,7 +16,7 @@ You are a software developer for a children's colouring drawing company. However
 1. Once the environment (i.e. GitHub view) is created for you by the System Administrator, you will use it for the rest of the activity.
 
 ## Sprint Planning
-1. As a development team, select a request from the “Market” and changes status to "Sprint Planning - \<Team Number>"
+1. As a development team, select a request from the “Market” and changes status to "Baklog - \<Team Number>"
 1.	Create a new issue with the URL from the select issue for completing one item in the batch
 1. Assign the created issue to yourself.
 
