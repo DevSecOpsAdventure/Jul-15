@@ -34,3 +34,11 @@ Discuss with your team the following three questions:
 
 ## Sprint Retrospective
 Complete the Sprint Retrospective Survey (URL) as team.
+
+
+## HT:Comments:
+1. Defination of completness: How do I know this is a correct image? probabily a template/test-cases
+2. Tester does not have the actual imaage
+3. Whether tester can have acess to the requirment phases?
+4. If a small issue, missing a tinny sector/portion of coloring still has to go to deployment?
+5. If security status fail, again the tester has to go through the same testing procedure?
