@@ -7,6 +7,7 @@ You are a software developer for a children's colouring drawing company. However
 # Actions This Sprint
 ## Setup
 1. Create an issue requesting the creation of a development environment
+    - Title: Create Environment
     - In the Description, put:
         - GitHub user name: \<GitHub id>
         - Environment: “Development - \<Team Number>”
