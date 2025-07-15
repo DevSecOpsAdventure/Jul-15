@@ -8,19 +8,18 @@ You are an art expert in the world of children's coloured drawings. You know wha
 
 # Actions This Sprint
 ## Setup
-1. Select a drawing for each of the following categories from the provided URLs.
-1. Create issues in GitHub that have the following characteristics:
-      - Status: Market
-      - Labels: \<Batch Size>, \<Price>
-      - Description: \<URL of the Drawing to be Coloured>
- 
+1. Select a drawing (by saving the URL) for each of the categories in the table below.
+1. Create issues in the Market for multiple orders.
+   - Add item in Market
+   - Type a description
+   - Add the URL to the description
+   - Save, then add labels for \<Batch Size> and \<Price>
    
 | Category | URL | Batch Size | Price | Demand | Issues (Total) |
 |-|-|-|-|-| -|
 | Dog | https://www.online-coloring.com/4-printables-dogs | 5 | 150 | 15 | 3 issues |
 | Cat | https://www.online-coloring.com/5-printables-cats/ | 3 | 100 | 6 | 2 issues |
 | Bird | https://www.online-coloring.com/26-printables-birds/ | 4 | 75 | 16 | 4 issues |
-
 
  ## Sprint Execution
 - Examine the issues with the Production status.
