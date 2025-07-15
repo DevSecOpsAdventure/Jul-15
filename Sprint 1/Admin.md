@@ -8,7 +8,7 @@ You are a systems administrator for a children's colouring drawing company.
 # Actions This Sprint
 ## Setup and Sprint Execution
 1. Monitor the System Admin board for issues with a "Enviroment Creation" status.
-    - Create a GitHub view with:
+    - Add a column with the name of the developer/tester:
         - Status: \<Value of "Environment">
         - Assignee: \<Developer or Tester GitHub id>
 1. Monitor the System Admin board for issues with a "Deployment" status.
