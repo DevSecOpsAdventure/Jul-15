@@ -6,6 +6,8 @@ You are a malicius hacker looking to exploit security flaws for your own monetar
 
 # Actions This Sprint
 ## Sprint Execution
+1. Create a board view with "status:" followed by the names for the developer and testing members.
+   - Example: *status:"Development - Team 1","Testing - Team 1"*
 1. Monitor issues with the status "Development - \<Team Number>" and "Testing - \<Team Number>"
 1. Select a few issues to "hack" (max: 5 issues per team)
     - Add the "Hacked" label to the issue.
