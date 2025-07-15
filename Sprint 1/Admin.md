@@ -9,7 +9,7 @@ You are a systems administrator for a children's colouring drawing company.
 ## Setup and Sprint Execution
 1. Monitor the System Admin board for issues with a "Enviroment Creation" status.
     - Add a column with the name of the developer/tester:
-        - Status: \<Value of "Environment">
+        - Status: \<Value of "Environment">   For example: Adam for Admin role, Danny for Developer role 
         - Assignee: \<Developer or Tester GitHub id>
 1. Monitor the System Admin board for issues with a "Deployment" status.
     - If not in a code freeze:
