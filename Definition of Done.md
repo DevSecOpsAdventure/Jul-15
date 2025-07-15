@@ -3,7 +3,7 @@ A product is considered completed if the following are true:
 
 ## Single Product
 1. An issue contains an attachment where all parts of the drawing are coloured. 
-    - White is not a valid colour within a drawing.
+    - White is not a valid colour within a drawing. Perhaps, white colour should not be used in this case.
     - The background of a drawing may be white or coloured.
 
 ## Deployment Package
