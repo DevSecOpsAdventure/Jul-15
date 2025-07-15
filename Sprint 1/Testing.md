@@ -6,13 +6,14 @@ You are a software tester for a children's colouring drawing company.
 
 # Actions This Sprint
 ## Setup
- Create an issue requesting creation of development environment
-    - In the description put:
-        - GitHub user name: \<GitHub id>
-        - Environment: Testing - \<Team Number>
-    - Set the Projects as directed by the instructor
-    - Set the status to "Environment Creation"
-1. Once the enviroment (i.e. GitHub view) is created for you by the System Administrator, you will use it for the rest of the activity.
+ Create an issue requesting the creation of a testing environment
+   - In the Description, put:
+       - GitHub user name: \<GitHub id>
+       - Environment: Testing - \<Team Number>
+   - Set the Projects as directed by the instructor
+   - Set the status to "Environment Creation"
+     
+Once the environment (i.e. GitHub view) is created for you by the System Administrator, you will use it for the rest of the activity.
 
 ## Sprint Planning
 1. As a development team, select a request from the “Market” and changes status to Sprint Planning - \<Team Number>.
