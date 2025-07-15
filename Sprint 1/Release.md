@@ -7,7 +7,7 @@ Create release packages to be moved to production.
 # Actions This Sprint
 ## Sprint Execution
 1. Monitor the "Release" board for completed issues.
-1. Add links and labels to the "Sprint Planning" issue to match the Definition of Done for a deployment package.
+1. Add links and labels to the "Sprint Planning" issue to match the  [Definition of Done](https://github.com/DevSecOpsAdventure/Jul-15/blob/main/Definition%20of%20Done.md) for a deployment package.
 1. Set Status to "Security"
 
 ## Sprint Review
