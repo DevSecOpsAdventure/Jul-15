@@ -2,6 +2,8 @@
 1. Fork the repo
 2. In Settings, turn on Issues
 
+Make project public
+
 # Labels to Add
 - Batch Size - 1 (blue)
 - Batch Size - 3 (blue)
