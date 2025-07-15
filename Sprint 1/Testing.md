@@ -10,6 +10,7 @@ You are a software tester for a children's colouring drawing company.
     - In the description put:
         - GitHub user name: \<GitHub id>
         - Environment: Testing - \<Team Number>
+    - Set the Projects as directed by the instructor
     - Set the status to "Environment Creation"
 1. Once the enviroment (i.e. GitHub view) is created for you by the System Administrator, you will use it for the rest of the activity.
 
