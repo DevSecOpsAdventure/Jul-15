@@ -20,3 +20,6 @@ Make project public
 - Team 1
 - Team 2
 - Team ... (however many teams you have)
+- Sprint 1
+- Sprint 2
+- Sprint 3
