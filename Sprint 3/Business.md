@@ -21,7 +21,7 @@ With new car and boat drawings now on in the market, these drawings don't sell a
 | Unicorn | https://www.online-coloring.com/207-printables-unicorn | 1 | 50 | 8 | 8 issues|
 | Car | https://www.online-coloring.com/22-printables-cars | 1 | 25 | 15 | - |
 | Boat | https://www.online-coloring.com/106-printables-boats | 1 | 30 | 16 | - |
-| Dog | https://www.online-coloring.com/4-printables-dogs | 5 | 4 | 15 | - |
+| Dog | https://www.online-coloring.com/4-printables-dogs | 1 | 4 | 15 | - |
 | Cat | https://www.online-coloring.com/5-printables-cats/ | 1 | 8 | 6 | - |
 | Bird | https://www.online-coloring.com/26-printables-birds/ | 1 | 4 | 16 | - |
 
